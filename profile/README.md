@@ -8,7 +8,7 @@ We recommend and ask you to do the following:
 3. Download Github CLI
 4. Clone the project repository
 ## Rules for all repositories.
-1. Do not force push anything. Me as the editor of this document I am fine with that. It would be your or your friends work lost, if they pushed it but did not save.
+1. Do not force push anything. Me as the editor of this document I am fine with that. It would be your or your friends work lost, if they pushed it but did not save a copy locally or pulled from cloud without keeping a copy.
 2. For code you have not tested DO NOT commit and push directly onto main branch of any repository.
 3. AI is allowed, but you are responsible for the issues.
 4. DO NOT have anysort of sensitive information in any repository unless otherwise stated. If you API key gets discovered and stolen, we are not responsible for that.
