@@ -1,18 +1,25 @@
 ## Hi there 👋
 
+Welcome to the Tiger Studio WAB organization.
+
 ## Joining
-If you are a WAB student and you want to join this passion club.\
-We recommend and ask you to do the following:
-1. Create a Github account, if you don't have one
-2. Join or ask a admin to invite you to this organization
-3. Download Github CLI
-4. Clone the project repository
-## Rules for all repositories.
-1. Do not force push anything. Me as the editor of this document I am fine with that. It would be your or your friends work lost, if they pushed it but did not save a copy locally or pulled from cloud without keeping a copy.
-2. For code you have not tested DO NOT commit and push directly onto main branch of any repository.
-3. AI is allowed, but you are responsible for the issues.
-4. DO NOT have anysort of sensitive information in any repository unless otherwise stated. If you API key gets discovered and stolen, we are not responsible for that.
-5. For all assets that have been used in the project state the origin of it (eg. yours, itch.io author, AI)
+If you are a WAB student and you want to join this passion club, please follow these steps:
+1. Create a GitHub account if you do not already have one.
+2. Ask an organization admin for an invite to this organization.
+3. Install GitHub CLI so you can work with repositories from the terminal.
+4. Clone the project repository after you have access.
+
+## Rules for all repositories
+1. Do not force push to any repository. Force pushing can overwrite other people's work and make it difficult to recover lost changes.
+2. Do not commit or push untested code directly to the `main` branch. Use a branch first, test your changes, and then open a pull request.
+3. AI tools are allowed, but you are still responsible for reviewing the code, fixing mistakes, and understanding what gets committed.
+4. Do not store sensitive information in any repository unless it has been explicitly approved by an admin. This includes API keys, passwords, tokens, and private credentials.
+5. For any asset used in a project, state where it came from. Examples include your own work, an itch.io creator, open-source assets, or AI-generated content.
+
+## Helpful notes
+- If something is unclear, ask an admin before making changes.
+- Keep commits focused and descriptive so changes are easy to review.
+- When in doubt, save your work locally or in a branch before making bigger edits.
 
 <!--
 
@@ -22,5 +29,5 @@ We recommend and ask you to do the following:
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting)
 -->
