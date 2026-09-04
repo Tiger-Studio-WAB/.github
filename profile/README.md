@@ -6,7 +6,7 @@ Welcome to the Tiger Studio WAB organization.
 If you are a WAB student and you want to join this passion club, please follow these steps:
 1. Create a GitHub account if you do not already have one.
 2. Ask an organization admin for an invite to this organization.
-3. Install GitHub CLI so you can work with repositories from the terminal.
+3. Install [GitHub CLI](https://cli.github.com/) so you can work with repositories from the terminal.
 4. Clone the project repository after you have access.
 
 ## Rules for all repositories
