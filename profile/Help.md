@@ -23,7 +23,7 @@ Please download [Git](https://git-scm.com/install/mac) before you start with wor
 
 ## Pushing and Pulling
 
-Please make sure you have downloaded Git according to the [Downloading](Cloning.md#downloading)
+Please make sure you have downloaded Git according to the [Downloading](Help.md#downloading)
 
 ### Pushing
 
