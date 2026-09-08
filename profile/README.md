@@ -21,6 +21,18 @@ If you are a WAB student and you want to join this passion club, please follow t
 - Keep commits focused and descriptive so changes are easy to review.
 - When in doubt, save your work locally or in a branch before making bigger edits.
 
+# Copyright
+
+Unless otherwise stated in a repository's files or documentation, all
+repositories and their contents in this organization are **All Rights Reserved**.
+
+No permission is granted to copy, modify, distribute, sublicense, or use the
+contents of these repositories without explicit permission from the copyright
+holder.
+
+If a repository contains a specific `LICENSE` file, license notice, or other
+explicit licensing statement, that license applies to that repository and
+takes precedence over this default notice.
 <!--
 
 **Here are some ideas to get you started:**
