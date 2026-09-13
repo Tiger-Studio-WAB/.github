@@ -1,5 +1,7 @@
 # Github Related
 
+[English](Help.md) · [中文](Help.zh.md) · [Deutsch](Help.de.md)
+
 ## Cloning a Project
 
 This is a step by step tutorial on how to clone a Project
