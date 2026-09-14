@@ -1,7 +1,5 @@
 [English](README.md) · [中文](README.zh.md) · [Deutsch](README.de.md)
 
-> **Entwurf:** Deutsche Fassung zur Prüfung durch Mingli29.
-
 ## Hallo 👋
 
 Willkommen in der Organisation Tiger Studio WAB.
